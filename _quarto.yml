@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd" # Render all .qmd files
+    - "!3A/var_application.qmd" # Ignore a specific file
+    - "!ignored-dir/" # Ignore a specific directory
+execute:
+  #cache: true
+  freeze: auto  
+  
+website:
+  title: ""
+  favicon: "flavicon.jpeg"
+  back-to-top-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: index_gdr.qmd
+        text: Daily Story
+      - about.qmd
+
+
+format:
+  html:
+    #link-external-newwindow: false
+    theme:
+      light: cosmo
+      dark: superhero
+    mainfont: Times New Roman
+    css: styles.css
+    toc: true
+    toc-location: left
+    toc-title: "Summary"
+    df-print: kable    
+
