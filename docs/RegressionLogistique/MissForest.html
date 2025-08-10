@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Jumbong Junior">
 
-<title>index</title>
+<title>Missing data treatment and imputation in python</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./flavicon.jpeg" rel="icon" type="image/jpeg">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../flavicon.jpeg" rel="icon" type="image/jpeg">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="floating nav-fixed">
@@ -87,15 +88,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Accueil</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./index_gdr.html"> 
+    <a class="nav-link" href="../index_gdr.html"> 
 <span class="menu-text">Daily Story</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About Me</span></a>
   </li>  
 </ul>
@@ -114,8 +115,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Summary</h2>
    
   <ul>
-  <li><a href="#meduim-publications" id="toc-meduim-publications" class="nav-link active" data-scroll-target="#meduim-publications">Meduim Publications</a></li>
-  <li><a href="#learning-sas" id="toc-learning-sas" class="nav-link" data-scroll-target="#learning-sas">Learning SAS</a></li>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#définition-de-la-fonction" id="toc-définition-de-la-fonction" class="nav-link" data-scroll-target="#définition-de-la-fonction">Définition de la fonction</a></li>
+  <li><a href="#exemple-de-dataframe" id="toc-exemple-de-dataframe" class="nav-link" data-scroll-target="#exemple-de-dataframe">Exemple de DataFrame</a></li>
   </ul>
 </nav>
 </nav>
@@ -126,69 +128,139 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-
-
-
-<div class="box">
-<p>This website serves as the treasury of my intellectual voyage, housing the jewels of my published articles on Medium, the budding seeds of works in progress, and the pillars of knowledge acquired during my third year in the Risk Management program at the National School of Statistics and Information Analysis in Rennes.</p>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Missing data treatment and imputation in python</h1>
 </div>
-<section id="meduim-publications" class="level1">
-<h1>Meduim Publications</h1>
-<p><em>Medium is an online publishing platform for sharing ideas, stories, and knowledge through articles written by individuals and organizations.</em></p>
-<ul>
-<li><p><strong>Credit Scoring modellling approach.</strong></p>
-<ul>
-<li>Definition of default and construction of the database.</li>
-<li>Outliers Identification and Treatment</li>
-<li>Missing data analysis</li>
-<li>Database splitting</li>
-<li>Pre-selection of explanatory variables</li>
-<li>Methodological Approach To Merge Modalities of qualitative variables</li>
-<li>Methodological Approach To Discretize Quantitative variables</li>
-<li>Monotony and Stability</li>
-<li>Oversampling</li>
-<li>Logistic Regression
-<ul>
-<li>Definition</li>
-<li>Fitting The logistic Regression</li>
-<li>Evaluation of the logistic Regression
-<ul>
-<li>Analysis of the statistical significance of the model</li>
-<li>The overall fit of the model : Likelihhod ratio test</li>
-<li>Statistical significance of individual regression coefficients: Likelihood ratio test and Z statistic</li>
-<li><a href="Meduim/RegressionLogistique/HosmerL.qmd" target="_self">Hosmer-Lemeshow test</a></li>
-</ul></li>
-<li>Contribution of variables</li>
-</ul></li>
-<li>Model performances
-<ul>
-<li>Accuracy Ratio or Gini</li>
-<li>stability test</li>
-</ul></li>
-</ul></li>
-<li><p><strong>Times Series</strong></p></li>
-<li><p><strong>Towards data science (TDS) :</strong></p>
-<ul>
-<li><a href="00_tds/proportional_ordinal_regression.qmd">Proportional Odds Model for Ordinal Logistic Regression</a></li>
-<li><a href="Others/spurious_reg.qmd">Spurious Regression in Time Series</a></li>
-<li><a href="https://towardsdatascience.com/multiple-linear-regression-analysis/multiple-linear-regression-analysis-using-python-1c0f2b7d8e3a">Multiple Linear Regression Analysis</a></li>
-<li><a href="00_tds/fourrier_transformation.qmd">Fourier Transformation</a></li>
-</ul></li>
-<li><p><strong>Others :</strong></p>
-<ul>
-<li><p><a href="Meduim/RegressionLogistique/bias_sample.qmd">Sampling Bias and Class Imbalance in Maximum-likelihood Logistic Regression</a></p></li>
-<li><p><a href="Others/number_obs_for_model.qmd">Number of optimal defaults in credit rating</a></p></li>
-</ul></li>
-</ul>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Jumbong Junior </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="introduction" class="level1">
+<h1>Introduction</h1>
+<p># Importation des bibliothèques nécessaires import pandas as pd import numpy as np from sklearn.experimental import enable_iterative_imputer # Activation de l’IterativeImputer from sklearn.impute import IterativeImputer from sklearn.ensemble import RandomForestRegressor</p>
 </section>
-<section id="learning-sas" class="level1">
-<h1>Learning SAS</h1>
-<ul>
-<li><strong>Background :</strong>
-<ul>
-<li><a href="LearningSas/prerequisites.qmd">Prerequisites</a></li>
-</ul></li>
-</ul>
+<section id="définition-de-la-fonction" class="level1">
+<h1>Définition de la fonction</h1>
+<p>def miss_forest_application_fold_mmsa(data_base_train, data_base_test, list_raw_ratios): # Assurez-vous que les valeurs manquantes sont bien définies comme np.nan # data_base_train = data_base_train.replace({None: np.nan, ‘NA’: np.nan, ‘null’: np.nan}) #data_base_test = data_base_test.replace({None: np.nan, ‘NA’: np.nan, ‘null’: np.nan})</p>
+<pre><code># Préparation des données d'entraînement
+base_raw_ratios_train = data_base_train[list_raw_ratios].copy()
+
+# Imputation sur la base d'entraînement
+imputer = IterativeImputer(
+    estimator=RandomForestRegressor(n_estimators=100, random_state=42),
+    max_iter=10,
+    random_state=42
+)
+imp_train = pd.DataFrame(
+    imputer.fit_transform(base_raw_ratios_train),
+    columns=list_raw_ratios,
+    index=base_raw_ratios_train.index
+)
+
+# Remplacement des valeurs imputées dans la base d'entraînement originale
+data_base_train.update(imp_train)
+
+# Imputation sur la base de test
+base_raw_ratios_test = data_base_test[list_raw_ratios].copy()
+imp_test = pd.DataFrame(
+    imputer.transform(base_raw_ratios_test),
+    columns=list_raw_ratios,
+    index=base_raw_ratios_test.index
+)
+
+# Remplacement des valeurs imputées dans la base de test originale
+data_base_test.update(imp_test)
+
+# Calcul des erreurs (facultatif)
+errors = abs(imp_train - base_raw_ratios_train)
+rmse_train = pd.DataFrame({
+    "ratios": list_raw_ratios,
+    "RMSE": np.sqrt((errors**2).mean(axis=0))
+})
+
+print(f" The error is given by {errors}")
+
+# Sélection des variables à garder ou à supprimer
+vars_to_keep = rmse_train.loc[rmse_train["RMSE"] &lt; 1000, "ratios"]
+vars_to_drop = rmse_train.loc[rmse_train["RMSE"] &gt; 0.5, "ratios"]
+
+# Filtrage des variables dans les bases d'entraînement et de test
+final_train = data_base_train.loc[:, ~data_base_train.columns.isin(vars_to_drop)]
+final_test = data_base_test.loc[:, data_base_test.columns.isin(vars_to_keep)]
+
+# Résultats finaux
+return {
+    "final_train": final_train,
+    "final_test": final_test
+}</code></pre>
+</section>
+<section id="exemple-de-dataframe" class="level1">
+<h1>Exemple de DataFrame</h1>
+<p>data_train = pd.DataFrame({ “A”: [1, 2, np.nan, 4], “B”: [np.nan, 2, 3, 4], “C”: [5, 6, 7, np.nan] })</p>
+<p>data_test = pd.DataFrame({ “A”: [np.nan, 2, 3], “B”: [1, np.nan, 3], “C”: [4, 5, np.nan] })</p>
+<p>list_vars = [“A”, “B”, “C”] results = miss_forest_application_fold_mmsa(data_train, data_test, list_vars)</p>
+<p>results[“final_train”], results[“final_test”]</p>
+<pre><code>
+```{python}
+
+import pandas as pd
+import numpy as np
+import sys
+import sklearn.neighbors._base
+sys.modules['sklearn.neighbors.base'] = sklearn.neighbors._base
+from missingpy import MissForest
+
+
+# No module named sklearn.neighbors.base
+
+# Sample DataFrame with missing values
+data = {
+    'A': [1, 2, np.nan, 4],
+    'B': [np.nan, 2, 3, 4],
+    'C': ['cat', np.nan, 'dog', 'cat'],
+    'D': [1.5, 2.5, np.nan, 4.5]
+}
+df = pd.DataFrame(data)
+
+print("Original DataFrame:")
+print(df)
+
+# Convert categorical column to numerical codes (if needed)
+df['C'] = df['C'].astype('category').cat.codes.replace(-1, np.nan)
+
+# Instantiate MissForest
+imputer = MissForest(random_state=42)
+
+# Impute missing values
+imputed_array = imputer.fit_transform(df.values)
+
+# Convert back to a DataFrame
+df_imputed = pd.DataFrame(imputed_array, columns=df.columns)
+
+# Convert categorical columns back to original categories
+df_imputed['C'] = df_imputed['C'].round().astype(int).map({0: 'cat', 1: 'dog'})
+
+print("\nDataFrame After Imputation:")
+print(df_imputed)
+</code></pre>
 
 
 </section>
