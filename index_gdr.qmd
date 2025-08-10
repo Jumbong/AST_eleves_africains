@@ -8,3 +8,5 @@ format:
 Compte tenu de ma spécialisation en gestion des risques, les contenus que je prévois de partager dans cette section dédiée à la 3ème année (3A) porteront principalement sur les enseignements spécifiques à cette spécialisation. Je m'efforcerai de rendre ces partages aussi pertinents et enrichissants que possible, en espérant qu'ils serviront de guide précieux pour ceux qui suivront une voie similaire.
 </div>
 
+## The prediction risk
+

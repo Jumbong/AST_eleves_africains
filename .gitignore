@@ -2,4 +2,7 @@
 /_site/
 /.venv/
 /.csv/
-/venv/
+/.txt/
+/.ipynb_checkpoints/
+/.DS_Store
+/.Rhistory
