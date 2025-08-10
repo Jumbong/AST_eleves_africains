@@ -34,7 +34,7 @@
         "\n",
         "This is example of a database where we want to estimate the ODR and the yearly ODR as the the average of the quarterly ODRs."
       ],
-      "id": "8cfd5912"
+      "id": "0e9c1fee"
     },
     {
       "cell_type": "code",
@@ -65,7 +65,7 @@
         "\n",
         "frequentist_PD"
       ],
-      "id": "5df4558c",
+      "id": "47514017",
       "execution_count": null,
       "outputs": []
     },
@@ -100,7 +100,7 @@
         "\n",
         "merged"
       ],
-      "id": "fb04d5ea",
+      "id": "f0b33701",
       "execution_count": null,
       "outputs": []
     },
@@ -230,7 +230,7 @@
         "\n",
         "## Density probability function using plotly\n"
       ],
-      "id": "871ac90d"
+      "id": "b0e1b933"
     },
     {
       "cell_type": "code",
@@ -257,7 +257,7 @@
         "# Affichage\n",
         "print(stats_df)"
       ],
-      "id": "bb071fd7",
+      "id": "260c6d8a",
       "execution_count": null,
       "outputs": []
     },
@@ -283,7 +283,7 @@
         "             labels={'Year': 'Year', 'Value': 'Values'})\n",
         "fig.show()"
       ],
-      "id": "3a879531",
+      "id": "1c53abdd",
       "execution_count": null,
       "outputs": []
     },
@@ -315,7 +315,7 @@
         "fig.update_layout(title=\"Density of age\", xaxis_title=\"Age\", yaxis_title=\"Density\")\n",
         "fig.show()"
       ],
-      "id": "ad7cb66a",
+      "id": "bc1cc5f9",
       "execution_count": null,
       "outputs": []
     },
@@ -327,7 +327,7 @@
         "\n",
         "The graphic analysis is a tool to understand the relationship between the covariates and the response variable. It is very important when we want to perform a linear regression.\n"
       ],
-      "id": "137ce8b4"
+      "id": "57328b72"
     },
     {
       "cell_type": "code",
@@ -343,7 +343,7 @@
         "df = pd.read_csv('data/Multiple_Regression_Dataset.csv')\n",
         "df.head()"
       ],
-      "id": "75bdf619",
+      "id": "19bdcd76",
       "execution_count": null,
       "outputs": []
     },
@@ -383,7 +383,7 @@
         "fig.tight_layout()\n",
         "plt.show()"
       ],
-      "id": "63071a7d",
+      "id": "6fae6280",
       "execution_count": null,
       "outputs": []
     },
@@ -393,7 +393,7 @@
       "source": [
         "# Spearman Correlation Matrix"
       ],
-      "id": "27cffbf2"
+      "id": "0f4699c2"
     },
     {
       "cell_type": "code",
@@ -406,7 +406,7 @@
         "plt.title(\"Correlation Matrix Heatmap\")\n",
         "plt.show()"
       ],
-      "id": "42a31d9f",
+      "id": "461fe54e",
       "execution_count": null,
       "outputs": []
     },
@@ -418,7 +418,7 @@
         "\n",
         "When several variables are correlated with each other, we keep only one of them. The one the most correlated with the response variable."
       ],
-      "id": "2dc974d8"
+      "id": "030ced85"
     },
     {
       "cell_type": "code",
@@ -454,7 +454,7 @@
         "\n",
         "final_selected_variables"
       ],
-      "id": "14a81153",
+      "id": "22763b14",
       "execution_count": null,
       "outputs": []
     },
@@ -464,7 +464,7 @@
       "source": [
         "# Variance Inflation Factor (VIF) for selected variables after standardization"
       ],
-      "id": "6312ab81"
+      "id": "ea836356"
     },
     {
       "cell_type": "code",
@@ -486,7 +486,7 @@
         "\n",
         "print(vif_data)"
       ],
-      "id": "d99acc91",
+      "id": "17c85111",
       "execution_count": null,
       "outputs": []
     },
@@ -496,7 +496,7 @@
       "source": [
         "## Fit a linear regression model on a six variables after standardization not split data into train and test"
       ],
-      "id": "775291bd"
+      "id": "92f9e442"
     },
     {
       "cell_type": "code",
@@ -520,7 +520,7 @@
         "model = OLS(y, X_scaled_df).fit()\n",
         "print(model.summary())\n"
       ],
-      "id": "d1c2bdfe",
+      "id": "ae9ff48e",
       "execution_count": null,
       "outputs": []
     },
@@ -776,7 +776,7 @@
         "<span class=\"date\">April 30, 2025</span>\n",
         ":::\n"
       ],
-      "id": "6d916ae5"
+      "id": "720a5695"
     }
   ],
   "metadata": {
