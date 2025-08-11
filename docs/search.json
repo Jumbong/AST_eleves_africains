@@ -21,43 +21,8 @@
     "text": "Les années précédentes, de nombreux étudiants sont passés à côté de démarches essentielles pour leur vie en France, ainsi que d’avantages auxquels ils pouvaient prétendre, faute d’informations suffisantes.\nConsciente de cette situation, nous vous souhaitons la bienvenue et mettons à votre disposition ce guide. Vous y trouverez toutes les informations utiles ainsi que la liste des démarches à effectuer dès votre arrivée et tout au long de votre séjour.\nNous vous encourageons vivement à lire attentivement chaque page et à accomplir chaque démarche au moment opportun et dans les délais impartis. Cela vous permettra d’éviter toute mauvaise surprise durant votre séjour.\n\n\nDisclaimer !!\n\nIl est important de préciser que ce guide n’est pas exhaustif et ne couvre pas tous les aspects ni tous les détails des procédures administratives et des réglementations en vigueur.\nLes lois, règlements et démarches administratives évoluent régulièrement. Il appartient donc à chaque lecteur de vérifier la mise à jour des informations présentées ici. Nous vous invitons vivement à consulter les sources officielles, les sites web gouvernementaux et les ressources spécifiques à votre situation afin d’obtenir les informations les plus récentes et les plus fiables.\nNous ne pouvons garantir l’exactitude ou l’exhaustivité du contenu de ce guide et ne saurait être tenue responsable des conséquences liées à son utilisation. Nous encourageons chaque lecteur à faire preuve de diligence, à contacter les autorités compétentes et, si nécessaire, à solliciter des conseils juridiques ou administratifs adaptés à sa situation.\nCe guide a pour vocation d’être un point de départ et une référence générale pour faciliter l’intégration des étudiants étrangers en France. Nous espérons qu’il vous sera utile dans votre parcours, tout en rappelant qu’il ne remplace en aucun cas des conseils personnalisés ou des directives officielles.\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Meduim Publications",
-    "section": "",
-    "text": "This website serves as the treasury of my intellectual voyage, housing the jewels of my published articles on Medium, the budding seeds of works in progress, and the pillars of knowledge acquired during my third year in the Risk Management program at the National School of Statistics and Information Analysis in Rennes.\n\n\nMeduim Publications\nMedium is an online publishing platform for sharing ideas, stories, and knowledge through articles written by individuals and organizations.\n\nCredit Scoring modellling approach.\n\nDefinition of default and construction of the database.\nOutliers Identification and Treatment\nMissing data analysis\nDatabase splitting\nPre-selection of explanatory variables\nMethodological Approach To Merge Modalities of qualitative variables\nMethodological Approach To Discretize Quantitative variables\nMonotony and Stability\nOversampling\nLogistic Regression\n\nDefinition\nFitting The logistic Regression\nEvaluation of the logistic Regression\n\nAnalysis of the statistical significance of the model\nThe overall fit of the model : Likelihhod ratio test\nStatistical significance of individual regression coefficients: Likelihood ratio test and Z statistic\nHosmer-Lemeshow test\n\nContribution of variables\n\nModel performances\n\nAccuracy Ratio or Gini\nstability test\n\n\nTimes Series\nTowards data science (TDS) :\n\nProportional Odds Model for Ordinal Logistic Regression\nSpurious Regression in Time Series\nMultiple Linear Regression Analysis\nFourier Transformation\n\nOthers :\n\nSampling Bias and Class Imbalance in Maximum-likelihood Logistic Regression\nNumber of optimal defaults in credit rating\n\n\n\n\nLearning SAS\n\nBackground :\n\nPrerequisites\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "01_Procedure_admi/06_Impots/02_declaration_revenue.html",
-    "href": "01_Procedure_admi/06_Impots/02_declaration_revenue.html",
-    "title": "",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "01_Procedure_admi/03_Compte_Bancaire/01_ouverture_compte_bancaire.html",
-    "href": "01_Procedure_admi/03_Compte_Bancaire/01_ouverture_compte_bancaire.html",
-    "title": "",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "01_Procedure_admi/02_Transports/01_Rennes.html",
-    "href": "01_Procedure_admi/02_Transports/01_Rennes.html",
-    "title": "",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "01_Procedure_admi/01_Demarches_sejour/01_validation_Visa_long_sejour.html",
-    "href": "01_Procedure_admi/01_Demarches_sejour/01_validation_Visa_long_sejour.html",
-    "title": "",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "01_Procedure_admi/01_Demarches_sejour/03_Renouvellement_titre_sejour.html",
-    "href": "01_Procedure_admi/01_Demarches_sejour/03_Renouvellement_titre_sejour.html",
+    "objectID": "01_Procedure_admi/04_logements/04_aide_logement.html",
+    "href": "01_Procedure_admi/04_logements/04_aide_logement.html",
     "title": "",
     "section": "",
     "text": "Back to top"
@@ -70,10 +35,73 @@
     "text": "Back to top"
   },
   {
-    "objectID": "01_Procedure_admi/04_logements/04_aide_logement.html",
-    "href": "01_Procedure_admi/04_logements/04_aide_logement.html",
+    "objectID": "01_Procedure_admi/01_Demarches_sejour/03_Renouvellement_titre_sejour.html",
+    "href": "01_Procedure_admi/01_Demarches_sejour/03_Renouvellement_titre_sejour.html",
     "title": "",
     "section": "",
     "text": "Back to top"
+  },
+  {
+    "objectID": "01_Procedure_admi/01_Demarches_sejour/01_validation_Visa_long_sejour.html",
+    "href": "01_Procedure_admi/01_Demarches_sejour/01_validation_Visa_long_sejour.html",
+    "title": "Model Selection",
+    "section": "",
+    "text": "Une fois arrivé(e) en France, vous devez impérativement valider votre visa de long séjour dans les 3 mois suivant votre arrivée sur le territoire. Sans cette validation, votre visa ne sera plus valable et vous pourriez vous retrouver en situation irrégulière.\nPour un résumé des étapes officielles, consultez le site de Campus France : 🔗 Comment valider votre visa long séjour à votre arrivée en France\n\n\n\nRendez-vous sur le site officiel de l’Administration pour les étrangers en France : 🔗 administration-etrangers-en-france.interieur.gouv.fr\nSur la page d’accueil, cliquez sur “Je valide mon VLS-TS”.\n\n\n\n\n\nSaisissez le numéro de visa figurant en haut à droite de votre vignette visa (voir exemple sur le site).\nRemplissez toutes les informations demandées avec précision.\n\n\n\n\n\nLa validation de votre VLS-TS nécessite l’achat d’un timbre fiscal électronique d’un montant de 50 €.\n\nSi vous avez déjà un timbre (“Titre pour étrangers” – 50 €), saisissez simplement le numéro du timbre dans le champ prévu.\nSinon, suivez la procédure en ligne pour l’acheter. Vous devrez renseigner vos coordonnées bancaires pour le paiement.\n\n⚠️ Attention aux arnaques : N’achetez votre timbre que sur le site officiel : 🔗 timbres.impots.gouv.fr → rubrique “Acheter un timbre électronique” puis “Titre pour étrangers”.\n\n\n\n\nUne fois toutes les étapes complétées et le paiement effectué :\n\nVous recevrez un email de confirmation validant votre VLS-TS.\nConservez cet email précieusement : il atteste que votre visa est désormais valable comme titre de séjour.\n\n\n✅ Conseil pratique : Effectuez cette validation le plus tôt possible après votre arrivée pour éviter tout problème administratif par la suite."
+  },
+  {
+    "objectID": "01_Procedure_admi/02_Transports/01_Rennes.html",
+    "href": "01_Procedure_admi/02_Transports/01_Rennes.html",
+    "title": "",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "01_Procedure_admi/03_Compte_Bancaire/01_ouverture_compte_bancaire.html",
+    "href": "01_Procedure_admi/03_Compte_Bancaire/01_ouverture_compte_bancaire.html",
+    "title": "",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "01_Procedure_admi/06_Impots/02_declaration_revenue.html",
+    "href": "01_Procedure_admi/06_Impots/02_declaration_revenue.html",
+    "title": "",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Démarches Administratives",
+    "section": "",
+    "text": "Démarches Administratives\n\nProcédure de validation du Visa Long Séjour (VLS)\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "01_Procedure_admi/01_Demarches_sejour/01_validation_Visa_long_sejour.html#étape-1-accéder-à-la-plateforme-officielle",
+    "href": "01_Procedure_admi/01_Demarches_sejour/01_validation_Visa_long_sejour.html#étape-1-accéder-à-la-plateforme-officielle",
+    "title": "Model Selection",
+    "section": "",
+    "text": "Rendez-vous sur le site officiel de l’Administration pour les étrangers en France : 🔗 administration-etrangers-en-france.interieur.gouv.fr\nSur la page d’accueil, cliquez sur “Je valide mon VLS-TS”."
+  },
+  {
+    "objectID": "01_Procedure_admi/01_Demarches_sejour/01_validation_Visa_long_sejour.html#étape-2-saisir-les-informations-de-votre-visa",
+    "href": "01_Procedure_admi/01_Demarches_sejour/01_validation_Visa_long_sejour.html#étape-2-saisir-les-informations-de-votre-visa",
+    "title": "Model Selection",
+    "section": "",
+    "text": "Saisissez le numéro de visa figurant en haut à droite de votre vignette visa (voir exemple sur le site).\nRemplissez toutes les informations demandées avec précision."
+  },
+  {
+    "objectID": "01_Procedure_admi/01_Demarches_sejour/01_validation_Visa_long_sejour.html#étape-3-procéder-au-paiement-du-timbre-fiscal",
+    "href": "01_Procedure_admi/01_Demarches_sejour/01_validation_Visa_long_sejour.html#étape-3-procéder-au-paiement-du-timbre-fiscal",
+    "title": "Model Selection",
+    "section": "",
+    "text": "La validation de votre VLS-TS nécessite l’achat d’un timbre fiscal électronique d’un montant de 50 €.\n\nSi vous avez déjà un timbre (“Titre pour étrangers” – 50 €), saisissez simplement le numéro du timbre dans le champ prévu.\nSinon, suivez la procédure en ligne pour l’acheter. Vous devrez renseigner vos coordonnées bancaires pour le paiement.\n\n⚠️ Attention aux arnaques : N’achetez votre timbre que sur le site officiel : 🔗 timbres.impots.gouv.fr → rubrique “Acheter un timbre électronique” puis “Titre pour étrangers”."
+  },
+  {
+    "objectID": "01_Procedure_admi/01_Demarches_sejour/01_validation_Visa_long_sejour.html#étape-4-confirmation-de-la-validation",
+    "href": "01_Procedure_admi/01_Demarches_sejour/01_validation_Visa_long_sejour.html#étape-4-confirmation-de-la-validation",
+    "title": "Model Selection",
+    "section": "",
+    "text": "Une fois toutes les étapes complétées et le paiement effectué :\n\nVous recevrez un email de confirmation validant votre VLS-TS.\nConservez cet email précieusement : il atteste que votre visa est désormais valable comme titre de séjour.\n\n\n✅ Conseil pratique : Effectuez cette validation le plus tôt possible après votre arrivée pour éviter tout problème administratif par la suite."
   }
 ]

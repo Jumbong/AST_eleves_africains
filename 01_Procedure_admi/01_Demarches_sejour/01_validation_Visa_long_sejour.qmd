@@ -1,0 +1,69 @@
+
+---
+title: ""
+subtitle: ""
+sidebar: auto
+number-sections: false
+toc: true
+title-block-banner: false
+format: 
+  html: 
+    mainfont: Times New Roman
+    fontsize: 1.1em
+
+---
+![Procédure de validation du VLS](/01_Procedure_admi/99_images/01_vls_titre.png)  
+*Source : [Campus France et CHATGPT 5](https://www.campusfrance.org/fr/comment-valider-votre-visa-long-sejour-a-votre-arrivee-en-france)*
+
+
+# 1. Procédure de validation du Visa Long Séjour (VLS) “Étudiant” dès l’arrivée en France
+
+Une fois arrivé(e) en France, vous devez **impérativement** valider votre **visa de long séjour** dans les **3 mois** suivant votre arrivée sur le territoire.
+Sans cette validation, votre visa ne sera plus valable et vous pourriez vous retrouver en situation irrégulière.
+
+Pour un résumé des étapes officielles, consultez le site de **Campus France** :
+🔗 [Comment valider votre visa long séjour à votre arrivée en France](https://www.campusfrance.org/fr/comment-valider-votre-visa-long-sejour-a-votre-arrivee-en-france)
+
+
+## Étape 1 – Accéder à la plateforme officielle
+
+Rendez-vous sur le site officiel de l’Administration pour les étrangers en France : [administration-etrangers-en-france.interieur.gouv.fr](https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/)
+
+Sur la page d’accueil, cliquez sur **"Je valide mon VLS-TS"**.
+
+![Administration numérique pour les étrangers en France](/01_Procedure_admi/99_images/02_vls_validation.png)  
+*Source : [Ministère de l’Intérieur – Administration numérique pour les étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr/)*
+
+
+## Étape 2 – Saisir les informations de votre visa
+
+* Saisissez le **numéro de visa** figurant en haut à droite de votre vignette visa (voir exemple sur le site).
+
+![Exemple de vignette de visa](/01_Procedure_admi/99_images/03_visa.png)  
+
+* Remplissez toutes les informations demandées avec précision.
+
+## Étape 3 – Procéder au paiement du timbre fiscal
+
+La validation de votre VLS-TS nécessite l’achat d’un **timbre fiscal électronique** d’un montant de **50 €**.
+
+* Si vous avez déjà un timbre (« Titre pour étrangers » – 50 €), saisissez simplement le **numéro du timbre** dans le champ prévu.
+* Sinon, suivez la procédure en ligne pour l’acheter. Vous devrez renseigner vos coordonnées bancaires pour le paiement.
+* Vous pouvez également acheter ce timbre dans certains **bureaux de tabac** agréés (demandez un timbre électronique – « Titre pour étrangers »).
+
+⚠️ **Attention aux arnaques** :  
+N’achetez votre timbre que sur le site officiel ou auprès de bureaux de tabac agréés :  
+🔗 [timbres.impots.gouv.fr](https://timbres.impots.gouv.fr/) → rubrique **"Acheter un timbre électronique"** puis **"Titre pour étrangers"**.
+
+
+
+## Étape 4 – Confirmation de la validation
+
+Une fois toutes les étapes complétées et le paiement effectué :
+
+* Vous recevrez un **email de confirmation** validant votre VLS-TS.
+* Conservez cet email précieusement : il atteste que votre visa est désormais valable comme titre de séjour.
+
+
+
+✅ **Conseil pratique** : Effectuez cette validation le plus tôt possible après votre arrivée pour éviter tout problème administratif par la suite.
