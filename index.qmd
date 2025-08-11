@@ -4,56 +4,9 @@ format:
     fontsize: 1.1em
 ---
 
-<div class="box">
-
-This website serves as the treasury of my intellectual voyage, housing the jewels of my published articles on Medium, the budding seeds of works in progress, and the pillars of knowledge acquired during my third year in the Risk Management program at the National School of Statistics and Information Analysis in Rennes.
-
-</div>
-
-# Meduim Publications
-
-*Medium is an online publishing platform for sharing ideas, stories, and knowledge through articles written by individuals and organizations.*
-
-- **Credit Scoring modellling approach.**
-    - Definition of default and construction of the database.
-    - Outliers Identification and Treatment
-    - Missing data analysis
-    - Database splitting
-    - Pre-selection of explanatory variables
-    - Methodological Approach To Merge Modalities of qualitative variables
-    - Methodological Approach To Discretize Quantitative variables
-    - Monotony and Stability
-    - Oversampling
-    - Logistic Regression
-        - Definition
-        - Fitting The logistic Regression
-        - Evaluation of the logistic Regression
-            - Analysis of the statistical significance of the model
-            - The overall fit of the model : Likelihhod ratio test
-            - Statistical significance of individual regression coefficients: Likelihood ratio test and Z statistic
-            - <a href = "Meduim/RegressionLogistique/HosmerL.qmd" target="_self">Hosmer-Lemeshow test</a>
-        - Contribution of variables
-    - Model performances
-        - Accuracy Ratio or Gini
-        - stability test 
-
-- **Times Series**
-
-- **Towards data science (TDS) :**
-    - [Proportional Odds Model for Ordinal Logistic Regression](00_tds/proportional_ordinal_regression.qmd) 
-    - [Spurious Regression in Time Series](Others/spurious_reg.qmd)
-    - [Multiple Linear Regression Analysis](https://towardsdatascience.com/multiple-linear-regression-analysis/multiple-linear-regression-analysis-using-python-1c0f2b7d8e3a)
-     - [Fourier Transformation](00_tds/fourrier_transformation.qmd)
-
-- **Others :**
-    - [Sampling Bias and Class Imbalance in Maximum-likelihood Logistic Regression](Meduim/RegressionLogistique/bias_sample.qmd)
-
-    - [Number of optimal defaults in credit rating](Others/number_obs_for_model.qmd)
-   
 
 
-# Learning SAS
+# Démarches Administratives
 
-- **Background :**
-    - [Prerequisites](LearningSas/prerequisites.qmd)
+-  [Procédure de validation du Visa Long Séjour (VLS)](01_Procedure_admi/01_Demarches_sejour/01_validation_Visa_long_sejour.qmd)
 

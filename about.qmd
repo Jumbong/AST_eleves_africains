@@ -1,25 +1,30 @@
 ---
-title: "About Me"
+title: "About Us"
 ---
 
 <div class="box">
-<h1 style="display: block;">Jumbong Junior</h1>
 
-<div class="container">
-<ul>
-    <li>  </li>
-    <li>  </li>
-    <br>
-    <li> </li>
-    <li> </li>
-</ul> 
 
-<img src="illust_graphics.jpg"  style="width: 250px; height: 250px;">
-</div>
+Les années précédentes, de nombreux étudiants sont passés à côté de démarches essentielles pour leur vie en France, ainsi que d’avantages auxquels ils pouvaient prétendre, faute d’informations suffisantes.
 
-<h2> </h2>
+Consciente de cette situation, nous vous souhaitons la bienvenue et mettons à votre disposition ce guide. Vous y trouverez toutes les informations utiles ainsi que la liste des démarches à effectuer dès votre arrivée et tout au long de votre séjour.
 
+Nous vous encourageons vivement à lire attentivement chaque page et à accomplir chaque démarche au moment opportun et dans les délais impartis. Cela vous permettra d’éviter toute mauvaise surprise durant votre séjour.
 
 
 </div>
 
+# **Disclaimer !!**
+
+
+<div class="box">
+
+Il est important de préciser que ce guide n’est pas exhaustif et ne couvre pas tous les aspects ni tous les détails des procédures administratives et des réglementations en vigueur.
+
+Les lois, règlements et démarches administratives évoluent régulièrement. Il appartient donc à chaque lecteur de vérifier la mise à jour des informations présentées ici. Nous vous invitons vivement à consulter les sources officielles, les sites web gouvernementaux et les ressources spécifiques à votre situation afin d’obtenir les informations les plus récentes et les plus fiables.
+
+Nous ne pouvons garantir l’exactitude ou l’exhaustivité du contenu de ce guide et ne saurait être tenue responsable des conséquences liées à son utilisation. Nous encourageons chaque lecteur à faire preuve de diligence, à contacter les autorités compétentes et, si nécessaire, à solliciter des conseils juridiques ou administratifs adaptés à sa situation.
+
+Ce guide a pour vocation d’être un point de départ et une référence générale pour faciliter l’intégration des étudiants étrangers en France. Nous espérons qu’il vous sera utile dans votre parcours, tout en rappelant qu’il ne remplace en aucun cas des conseils personnalisés ou des directives officielles.
+
+</div>
