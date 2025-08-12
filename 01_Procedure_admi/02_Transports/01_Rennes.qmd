@@ -1,0 +1,83 @@
+---
+title: ""
+subtitle: ""
+sidebar: auto
+number-sections: false
+toc: true
+title-block-banner: false
+format: 
+  html: 
+    mainfont: Times New Roman
+    fontsize: 1.1em
+
+---
+![Transport](/01_Procedure_admi/99_images/05_transport.png)
+*Source : [iledeFrancemobiliteset CHATGPT 5](https://www.iledefrance-mobilites.fr/titres-et-tarifs/detail/forfait-imagine-r-etudiant)*
+
+## Mon transport au quotidien
+
+### Les principaux moyens de transport
+
+En France, plusieurs solutions s’offrent à vous pour vos déplacements quotidiens :
+- **Bus** : réseau dense dans les villes et leurs alentours.
+- **Métro** : rapide et fréquent dans les grandes agglomérations.
+- **Tramway** : allie confort et accessibilité, souvent connecté aux lignes de bus.
+- **Train** : pratique pour les trajets interurbains ou régionaux.
+
+Il est recommandé de se renseigner sur les réseaux de transport en commun de votre ville ou région pour connaître les tickets de transports et abonnements disponibles pour circuler en toute sécurité. 
+
+
+
+### Cas de Rennes
+
+
+Dès votre arrivée, il faut créer une **carte KorriGo**[carte de transport] dans n'importe quelle agence commerciale STAR de Rennes muni des pièces suivantes :
+
+- Une pièce d'identité
+- Un justificatif de domicile
+- Un certificat de scolarité
+- Une attestation de bourse (Boursiers échelon 5, 6 et 7 bénéficient de la gratuité de transport)
+
+::: tip
+**Conseil :** La procédure est à refaire chaque année universitaire.
+:::
+
+
+### Cas Ile-de-France – Forfaits de transport
+
+#### Forfait Imagine R
+
+Dès votre première année, pensez à souscrire au **forfait Imagine R** valable **1 an** pour **350 € tout compris**.  
+Ce forfait vous donne accès à l’ensemble des transports en Île-de-France.
+
+**Pièces nécessaires :**
+- Une photo d’identité
+- Un RIB ou une carte bancaire
+- Un justificatif de scolarité
+
+**Procédure :**
+
+1. Depuis votre moteur de recherche, tapez *"Île-de-France Mobilités"*.
+
+2. Rendez-vous sur [le site officiel](https://www.iledefrance-mobilites.fr/).
+
+3. Cliquez sur **Tarifs**, descendez dans la page et sélectionnez **Souscrire à Imagine R**.
+
+4. Créez votre espace personnel.
+
+5. Cliquez sur **Souscrire ou commander un passe** et suivez les indications.
+
+
+
+#### Forfait Navigo Solidarité
+
+Si vous êtes bénéficiaire de la **Couverture Maladie Universelle Complémentaire (CMU-C)** ou de la **Complémentaire Santé Solidaire (CSS) sans participation financière**, ainsi que les membres de votre foyer, vous pouvez bénéficier du **forfait Navigo Solidarité** à **21 € par mois** (toutes zones), soit **-75 % de réduction**.
+
+Plus d’informations : [solidaritetransport.fr](https://www.solidaritetransport.fr/)
+
+
+::: tip
+**Conseil :** Faites les démarches pour obtenir la **Complémentaire Santé Solidaire (CSS)** dès votre première année.  
+Cela vous permettra d’avoir **vos frais de santé couverts à 100 %**, sans dépenses de votre poche.
+:::
+

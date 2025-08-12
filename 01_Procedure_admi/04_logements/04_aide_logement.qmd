@@ -1,0 +1,37 @@
+---
+title: ""
+subtitle: ""
+sidebar: auto
+number-sections: false
+toc: true
+title-block-banner: false
+format: 
+  html: 
+    mainfont: Times New Roman
+    fontsize: 1.1em
+
+---
+![Aides au Logement](/01_Procedure_admi/99_images/06_apl.png)
+*Source : [CAF et CHATGPT 5](https://wwwd.caf.fr/wps/portal/caffr/aidesetdemarches/mesdemarches/faireunedemandedeprestation?codeThematique=Logement#DAL)*
+
+
+## Aide au logement étudiant
+
+En tant qu’étudiant, vous pouvez bénéficier d’une **aide financière** pour réduire le montant de votre loyer, que vous soyez **locataire** ou **sous-locataire**.  
+
+Pour en profiter :  
+
+1. Vous devez d’abord être **rattaché à la CAF**.  
+
+2. Ensuite, effectuez votre demande en ligne : [Demande d’aide au logement](https://www.service-public.fr/particuliers/vosdroits/R1292).
+
+
+
+#### Documents nécessaires
+
+- Copie recto-verso de votre carte nationale d’identité, passeport ou extrait d’acte de naissance (si vous êtes de nationalité française)  
+- **Ou**, pour les autres nationalités : copie de votre titre de séjour en cours de validité  
+- Relevé d’identité bancaire (**RIB**) à votre nom  
+- Attestation de loyer complétée, datée et signée par votre propriétaire
+- Justificatif de scolarité pour l’année en cours (certificat de scolarité, carte étudiante, etc.)
+- Attestation de bourse (si vous êtes boursier)

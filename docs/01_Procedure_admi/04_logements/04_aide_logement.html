@@ -110,7 +110,13 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Summary</h2>
+   
+  <ul>
+  <li><a href="#aide-au-logement-étudiant" id="toc-aide-au-logement-étudiant" class="nav-link active" data-scroll-target="#aide-au-logement-étudiant">Aide au logement étudiant</a></li>
+  </ul>
+</nav>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
@@ -122,8 +128,32 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<p><img src="../../01_Procedure_admi/99_images/06_apl.png" class="img-fluid" alt="Aides au Logement"> <em>Source : <a href="https://wwwd.caf.fr/wps/portal/caffr/aidesetdemarches/mesdemarches/faireunedemandedeprestation?codeThematique=Logement#DAL">CAF et CHATGPT 5</a></em></p>
+<section id="aide-au-logement-étudiant" class="level2">
+<h2 class="anchored" data-anchor-id="aide-au-logement-étudiant">Aide au logement étudiant</h2>
+<p>En tant qu’étudiant, vous pouvez bénéficier d’une <strong>aide financière</strong> pour réduire le montant de votre loyer, que vous soyez <strong>locataire</strong> ou <strong>sous-locataire</strong>.</p>
+<p>Pour en profiter :</p>
+<ol type="1">
+<li><p>Vous devez d’abord être <strong>rattaché à la CAF</strong>.</p></li>
+<li><p>Ensuite, effectuez votre demande en ligne : <a href="https://www.service-public.fr/particuliers/vosdroits/R1292">Demande d’aide au logement</a>.</p></li>
+</ol>
+<section id="documents-nécessaires" class="level4">
+<h4 class="anchored" data-anchor-id="documents-nécessaires">Documents nécessaires</h4>
+<ul>
+<li>Copie recto-verso de votre carte nationale d’identité, passeport ou extrait d’acte de naissance (si vous êtes de nationalité française)<br>
+</li>
+<li><strong>Ou</strong>, pour les autres nationalités : copie de votre titre de séjour en cours de validité<br>
+</li>
+<li>Relevé d’identité bancaire (<strong>RIB</strong>) à votre nom<br>
+</li>
+<li>Attestation de loyer complétée, datée et signée par votre propriétaire</li>
+<li>Justificatif de scolarité pour l’année en cours (certificat de scolarité, carte étudiante, etc.)</li>
+<li>Attestation de bourse (si vous êtes boursier)</li>
+</ul>
 
 
+</section>
+</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -362,7 +392,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/Jumbong\.github\.io\/AST_eleves_africains\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
