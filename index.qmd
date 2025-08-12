@@ -6,8 +6,12 @@ format:
 
 
 
-# Démarches Administratives
+# 1. Démarches Administratives
 
 -  [Procédure de validation du Visa Long Séjour (VLS)](01_Procedure_admi/01_Demarches_sejour/01_validation_Visa_long_sejour.qmd)
 
 -  [Ouverture d'un compte bancaire en France](01_Procedure_admi/03_Compte_Bancaire/01_ouverture_compte_bancaire.qmd)
+
+- [Transports](01_Procedure_admi/02_Transports/01_Rennes.qmd)
+
+- [Aide au logement étudiant](01_Procedure_admi/04_logements/04_aide_logement.qmd)
