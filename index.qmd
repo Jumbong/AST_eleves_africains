@@ -15,3 +15,10 @@ format:
 - [Transports](01_Procedure_admi/02_Transports/01_Rennes.qmd)
 
 - [Aide au logement étudiant](01_Procedure_admi/04_logements/04_aide_logement.qmd)
+
+- [Santé en France](01_Procedure_admi/05_Sante/01_sante_france.qmd)
+  - Inscription sur le site étudiant-étranger.ameli.fr
+  - Déclaration d’un médecin traitant
+  - Création d’un compte Ameli
+  - Commande de la carte Vitale
+  - Demande de complémentaire santé solidaire
