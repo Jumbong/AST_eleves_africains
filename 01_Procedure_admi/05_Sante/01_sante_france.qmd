@@ -24,12 +24,12 @@ Cinq points principaux seront abordés dans cette partie :
 
 D'autres sujets plus en actualité comme par exemple la santé mentale des étudiants pourront être abordés ultérieurement.
 
-## 5 La santé une fois en France
+## La santé une fois en France
 
 En France, le système de santé est particulièrement favorable aux étudiants, y compris les étudiants étrangers.  
 Dès votre arrivée, certaines démarches sont indispensables pour bénéficier pleinement de vos droits.
 
-### 5.1 Inscription sur le site [etudiant-etranger.ameli.fr](https://etudiant-etranger.ameli.fr)
+### Inscription sur le site [etudiant-etranger.ameli.fr](https://etudiant-etranger.ameli.fr)
 
 En France, chaque assuré possède un **numéro de Sécurité sociale** qui permet de l’identifier de façon unique.  
 Pour obtenir ce numéro, vous devez demander une affiliation à la Sécurité sociale française via le site dédié.
@@ -52,7 +52,7 @@ Si vous ne pouvez pas vous inscrire en ligne, contactez le **36 46** (service gr
 :::
 
 
-### 5.2 Déclaration d’un médecin traitant
+###  Déclaration d’un médecin traitant
 
 Dès que vous disposez de votre attestation (provisoire ou définitive), déclarez un **médecin traitant**. Le médecin traitant est un médecin vers qui vous vous dirigerez pour tous vos problèmes de santé. Pourquoi est-il nécessaire d’avoir un médecin traitant en France ?
 
@@ -78,7 +78,7 @@ Pour prendre rendez-vous c’est simple, Doctolib facilite la vie…
 - Créez un compte sur le site ou via l’application mobile.
 
 
-### 5.3 Création d’un compte Ameli
+### Création d’un compte Ameli
 
 Le compte Ameli vous permet de :
 - Suivre vos procédures de santé et modifier vos informations.
@@ -93,7 +93,7 @@ Comment créer un compte Ameli ?
 - Disponible uniquement après obtention du numéro de Sécurité sociale.
 
 
-### 5.4 Commande de la carte Vitale
+###  Commande de la carte Vitale
 
 ![carte vitale](/01_Procedure_admi/99_images/09_carte_vitale.png)
 
@@ -115,7 +115,7 @@ papier des informations qu'elle contient. Ce document est utile si jamais vous p
 carte Vitale ou si vous devez justifier de vos droits.
 
 
-### 5.5 Demander le complémentaire santé solidaire
+### Demander le complémentaire santé solidaire
 
 En France, la Sécurité sociale (Ameli) ne couvre pas la totalité des frais de santé.  
 En tant qu’étudiant boursier, vous pouvez bénéficier de la **Complémentaire Santé Solidaire (CSS)**, qui prend en charge une part importante des frais non remboursée par l’Assurance Maladie.
