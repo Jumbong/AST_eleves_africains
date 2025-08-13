@@ -1,0 +1,73 @@
+---
+title: ""
+subtitle: ""
+sidebar: auto
+number-sections: false
+toc: true
+title-block-banner: false
+format: 
+  html: 
+    mainfont: Times New Roman
+    fontsize: 1.1em
+
+---
+![Declaration des revenus](/01_Procedure_admi/99_images/10_declaration_Revenu.png)
+*Source : [CHATGPT 5](https://www.ameli.fr/)*
+
+# Première déclaration de revenus
+
+## Introduction
+En France, toute personne majeure résidant sur le territoire, même sans revenus, doit remplir une déclaration annuelle de revenus. Pour un étudiant étranger, cette formalité permet notamment d’obtenir un **avis de situation fiscale** indispensable pour certaines démarches administratives (renouvellement de titre de séjour, demandes d’aides, etc.). Donc cette déclaration doit impérativement être faite la première année de votre séjour en France.
+
+Cette section vous guide pas à pas dans votre première déclaration, avec les pièces à fournir, les étapes à suivre, et les avantages à long terme.
+
+
+## Qui doit déclarer ses revenus ?
+
+Même sans revenu, un étudiant étranger résidant en France doit effectuer cette première déclaration.  
+Cela permet de :
+- Se rattacher au fichier fiscal français.
+- Obtenir un numéro fiscal personnel.
+- Accéder à certaines prestations et droits.
+
+## Documents nécessaires et procédures
+
+Préparez les éléments suivants avant de commencer la procédure :
+
+- **Pièce d’identité** : passeport ou carte nationale d’identité.
+- **Titre de séjour** en cours de validité.
+- **Justificatif de domicile** (facture, quittance de loyer, fournir une attestation d’hébergement ainsi que la pièce d’identité de la personne qui vous héberge).
+- **Relevé d’identité bancaire (RIB)** à votre nom.
+- Une déclaration papier ou un formulaire papier à remplir ou compléter. Ce formulaire se trouve généralement ici : ![Formulaire pour la première déclaration de revenus](https://www.impots.gouv.fr/formulaire/2042/declaration-des-revenus)
+
+![Formulaire pour la première déclaration de revenus](/01_Procedure_admi/99_images/10_declaration_Revenu.png)
+
+Ce formulaire peut être aussi directement récupérer auprès au centre des finances publiques le plus proche de votre lieu de résidence. Je vous conseille de vous rendre physiquement sur place pour plus de simplicité et de rapidité.  Il faut vous renseigner s'il faut prendre rendez-vous.
+
+Une fois le dossier complété et transmis au service des finances publiques, l’administration fiscale se rapprochera de vous pour tout complément d’information, ensuite procédera à la saisie automatique de votre déclaration et vous enverra votre avis d’imposition généralement fin juillet - début août. Sur cet avis figurera votre numéro fiscal qui vous sera utile pour accéder à votre espace personnel et procéder désormais à la saisie automatique de vos prochaines déclarations et aussi d’échanger directement avec l’administration fiscale via la messagerie sécurisée de votre espace personnel.
+
+Pour activer votre espace personnel, vous devez à nouveau vous rapprocher de l’administration fiscale et leur transmettre une copie de votre pièce d’identité.
+Une fois votre espace activé, vous pourrez donc y accéder via le lien : [Impots espace particulier](https://cfspart-idp.impots.gouv.fr/oauth2/authorize?authType=sso&nonce=XlTDkcCPtN3RXFlxvXovAw&state=f7a2df2f25ec665ed1c078390a4184bbf0c428d2a61cfb48e4f07ca7ad724818&scope=openid+profile+authChoice+otpEscape&response_type=code&prompt=login&client_id=52ed02940b0f1c57512f2d6fd064dddffccdea03&redirect_uri=https%3A%2F%2Fcfspart.impots.gouv.fr%2F%3Fopenidconnectcallback%3D1)
+
+![Espace particulier des impôts](/01_Procedure_admi/99_images/11_Page%20de%20connexion%20impots.gouv.fr.png)
+*Source : [impots.gouv.fr](https://cfspart-idp.impots.gouv.fr/oauth2/authorize?authType=sso&nonce=XlTDkcCPtN3RXFlxvXovAw&state=f7a2df2f25ec665ed1c078390a4184bbf0c428d2a61cfb48e4f07ca7ad724818&scope=openid+profile+authChoice+otpEscape&response_type=code&prompt=login&client_id=52ed02940b0f1c57512f2d6fd064dddffccdea03&redirect_uri=https%3A%2F%2Fcfspart.impots.gouv.fr%2F%3Fopenidconnectcallback%3D1)*
+
+
+
+> Si vous ne parvenez pas à activer votre espace, présentez-vous à l’administration fiscale muni de votre titre de séjour physique (et non numérique). L’activation pourra alors être effectuée rapidement.
+
+
+
+## L'Avis d'imposition
+
+C’est un document qui retrace l’ensemble des montants que vous avez déclarés. Vous y
+trouverez également votre taux moyen d’imposition ainsi que les montants dus ou ceux que l'administration fiscale vous doit. Ce document vous sera d’une grande utilité dans la plupart des démarches administratives que vous aurez à effectuer tout au long de votre séjour en France surtout après vos études quand vous aurez par exemple besoin de changer de logement, d’effectuer un prêt bancaire ou de déposer une demande de naturalisation.
+
+::: tip 
+
+Déclarez vos revenus même si vous n’avez **aucun revenu imposable**. Cela vous permettra d’obtenir un **avis de non-imposition**, souvent requis pour :
+
+- Le renouvellement de votre titre de séjour.
+- Les demandes de logement social.
+- Certaines aides financières.
+:::
