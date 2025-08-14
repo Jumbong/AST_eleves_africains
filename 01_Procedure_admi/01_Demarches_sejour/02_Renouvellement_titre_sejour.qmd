@@ -1,0 +1,103 @@
+---
+title: ""
+subtitle: ""
+sidebar: auto
+number-sections: false
+toc: true
+title-block-banner: false
+format: 
+  html: 
+    mainfont: Times New Roman
+    fontsize: 1.1em
+
+---
+![Administration numérique pour les étrangers en France](/01_Procedure_admi/99_images/02_vls_validation.png)  
+*Source : [Ministère de l’Intérieur – Administration numérique pour les étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr/)*
+
+
+## Renouveler votre titre de séjour
+
+### Introduction
+Comme pour la validation de votre **Visa Long Séjour (VLS)**, le **renouvellement de votre titre de séjour** s’effectue exclusivement en ligne sur le site de l’**ANEF (Administration Numérique des Étrangers en France)**.  
+
+Cette démarche est indispensable pour maintenir votre droit de séjour en France et éviter toute interruption dans vos études ou votre activité professionnelle (le stage par exemple ou les jobs étudiants).
+
+### Anticiper votre demande
+
+> **Conseil :** Lancez la procédure **2 à 3 mois avant l’expiration** de votre titre de séjour actuel.  
+> Cela vous évitera des retards pouvant entraîner de graves conséquences, comme l’interruption de votre stage ou la perte de certains droits administratifs.
+
+
+### Étapes pour effectuer la demande
+
+1. **Créer ou accéder à votre compte ANEF**  
+
+   - Lors de votre première connexion, créez votre espace personnel avec votre **numéro étranger** indiqué sur votre visa.  
+
+   - Sélectionnez ensuite **"Je demande ou renouvelle un titre de séjour"**.
+
+2. **Compléter les informations demandées**  
+
+   - Remplissez chaque rubrique en suivant les instructions à l’écran.  
+
+   - Téléversez toutes les pièces justificatives requises.
+
+
+
+### Pièces justificatives à fournir
+
+#### Cas général (renouvellement d’un visa long séjour valant titre de séjour)
+
+- Visa long séjour en cours de validité  
+- Justificatif de domicile de moins de 6 mois  
+- Code photographie et signature numérique valide (disponible en cabine **Photomaton** agréée)  
+
+Les **photomatons** sont des cabines automatiques où vous pouvez prendre des photos d'identité conformes aux normes françaises. Elles sont disponibles dans de nombreux lieux en France, y compris les supermarchés et les centres commerciaux. 
+
+- Certificat d’inscription ou de pré-inscription dans un établissement d’enseignement supérieur  
+- Relevé de notes de l’année écoulée  
+- Dernier diplôme obtenu en France  
+- Attestation de réussite  
+- Justificatif de ressources d’au moins **615 € par mois**
+
+#### Si vous ne disposez pas d’un visa long séjour ou de titre de séjour valide
+
+- Copie intégrale d’acte de naissance  
+- Passeport (pages état civil, dates de validité, cachets d’entrée et visas)  
+- Ou autres justificatifs : attestation consulaire, carte d’identité, carte consulaire, etc.
+
+
+### Après le dépôt de votre dossier
+
+- Vous recevrez automatiquement **une attestation de dépôt**.  
+
+- Vous pourrez suivre l’évolution de votre demande dans votre espace ANEF.  
+
+- Un agent de la sous-préfecture peut vous contacter pour des **pièces complémentaires**.  
+
+- Les **délais de traitement** varient selon les préfectures.
+
+
+
+### Décision finale
+
+- **Décision favorable :** vous recevrez une **attestation de décision favorable**, indiquant la mise en fabrication de votre nouveau titre.  
+
+- **Décision défavorable :** contactez immédiatement votre sous-préfecture pour comprendre le motif et fournir des justificatifs supplémentaires.  
+  - Si le refus persiste, tournez-vous vers :
+    - Les **associations spécialisées** dans le droit des étrangers  
+    - Un **avocat spécialisé** en droit des étrangers en France
+
+> ⚠ **Attention :** Ne tardez jamais à lancer la procédure. Un renouvellement demandé trop tard peut compromettre votre droit au séjour et vos droits sociaux.
+
+
+### Récapitulatif express
+
+1. **Anticipez** : démarrez 2 à 3 mois avant la date d’expiration  
+2. **Créez/Accédez** à votre compte ANEF  
+3. **Préparez vos pièces** justificatives  
+4. **Soumettez** votre dossier en ligne  
+5. **Suivez** l’avancement depuis votre compte  
+6. **Réagissez vite** en cas de demande complémentaire  
+7. **En cas de refus**, agissez rapidement auprès des autorités ou associations compétentes
+
