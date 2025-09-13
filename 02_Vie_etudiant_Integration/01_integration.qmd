@@ -1,5 +1,5 @@
 ---
-title: "Conseils pour une Bonne Intégration à l’ENSAI"
+title: "Conseils pour une Bonne Intégration"
 subtitle: ""
 sidebar: auto
 number-sections: false
