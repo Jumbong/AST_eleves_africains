@@ -17,12 +17,20 @@ format:
 - [Aide au logement étudiant](01_Procedure_admi/04_logements/04_aide_logement.qmd)
 
 - [Santé en France](01_Procedure_admi/05_Sante/01_sante_france.qmd)
-  - Inscription sur le site étudiant-étranger.ameli.fr
-  - Déclaration d’un médecin traitant
-  - Création d’un compte Ameli
-  - Commande de la carte Vitale
-  - Demande de complémentaire santé solidaire
+  - [Inscription sur le site étudiant-étranger.ameli.fr](01_Procedure_admi/05_Sante/01_sante_france.qmd#inscription-sur-le-site-etudiant-etrangeramelifr)
+  - [Déclaration d’un médecin traitant](01_Procedure_admi/05_Sante/01_sante_france.qmd#declaration-dun-medecin-traitant)
+  - [Création d’un compte Ameli](01_Procedure_admi/05_Sante/01_sante_france.qmd#creation-dun-compte-ameli)
+  - [Commande de la carte Vitale](01_Procedure_admi/05_Sante/01_sante_france.qmd#commande-de-la-carte-vitale)
+  - [Demande de complémentaire santé solidaire](01_Procedure_admi/05_Sante/01_sante_france.qmd#demande-de-complementaire-sante-solidaire)
 
 - [Déclaration de revenus](01_Procedure_admi/06_Impots/01_declaration_revenue.qmd)
 
 - [Renouvellement de titre de séjour](01_Procedure_admi/01_Demarches_sejour/02_Renouvellement_titre_sejour.qmd)
+
+# 2. [Conseils pour une bonne intégration](02_Vie_etudiant_Integration/01_integration.qmd).
+
+- [Diversité et Inclusion](02_Vie_etudiant_Integration/01_integration.qmd#diversite-et-inclusion)
+- [Vie Professionnelle vs Vie Personnelle](02_Vie_etudiant_Integration/01_integration.qmd#vie-professionnelle-vs-vie-personnelle)
+- [Politesse et Salutations](02_Vie_etudiant_Integration/01_integration.qmd#politesse-et-salutations)
+
+- [Intégration des associations étudiantes (ENSAI, ENSAE, ISFA, Master ESA d’Orléans)](02_Vie_etudiant_Integration/01_integration.qmd#intégration-des-associations.)
