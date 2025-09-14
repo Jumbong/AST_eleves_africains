@@ -11,7 +11,7 @@ format:
     fontsize: 1.1em
 
 ---
-![Integration](/03_Insertion_Professionnelle/99_images/01_insertion_professionnelle.png)  
+![Integration](/03_Insertion_Professionnelle/99_images/01_insertion_professionnel.png)  
 *Source : [CHATGPT 5]*
 
 Les étudiants « scientifiques » ont généralement plus de facilité à réussir leur année et à trouver rapidement un stage que les autres.

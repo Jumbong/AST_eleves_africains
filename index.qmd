@@ -38,3 +38,95 @@ format:
 
 - [Réussir son année](03_Insertion_Professionnelle/01_obtenir_son_stage.qmd#réussir-son-année)
 - [Trouver rapidement son stage](03_Insertion_Professionnelle/01_obtenir_son_stage.qmd#trouver-rapidement-son-stage)
+
+Voici une version réécrite pour rendre ton texte **plus clair, structuré et agréable à lire**, tout en conservant ton ton motivant et informatif :
+
+---
+
+# 4. Après le Master : Quelles Options ?
+
+Après le master, plusieurs voies s’offrent à vous :
+
+* **Intégrer le monde du travail** directement pour mettre en pratique vos compétences.
+* **Se réorienter ou se spécialiser davantage** en poursuivant un nouveau master.
+* **Préparer une thèse CIFRE ou académique** si vous souhaitez approfondir vos recherches et contribuer à la science.
+
+---
+
+###  Se Préparer pour un Master Exigeant
+
+Pour ceux qui veulent intégrer un master sélectif, il est crucial de **travailler avec méthode et stratégie** afin de figurer parmi les meilleurs de votre promotion :
+
+* **Objectif :** être dans le **Top 5 %** en 1ʳᵉ et 2ᵉ année, avec de très bonnes notes dans les matières clés.
+* En 3ᵉ année, viser d’être parmi les **5 premiers** avec d’excellents résultats dans les matières considérées comme prérequis par les masters visés.
+
+---
+
+###  Masters Recommandés
+
+- **Master Vision et Apprentissage (MVA)**
+
+Le MVA est considéré comme **le meilleur master en intelligence artificielle en France**.
+Pour y être admis, vous devez exceller dans les matières :
+1. Mathématiques avancées
+2. Programmation
+
+---
+
+- **Master de Sciences et Technologies – Probabilités et Finance**
+
+Ce master, reconnu comme une référence en mathématiques appliquées à la finance, est **très sélectif** (environ 3 étudiants admis chaque année).
+Vos chances d’admission augmentent si :
+
+1. Vous obtenez la **meilleure note** en calcul stochastique en 3A Gestion des Risques,
+2. Vous êtes premier de promotion,
+3. Votre parcours démontre une solide compétence en mathématiques appliquées.
+
+> Exemple : 1 étudiant de l’ENSAI a été accepté cette année, et 3 l’année dernière.
+
+---
+
+- **Master 2 – Mathématiques Appliquées (M2MO, ex-DEA Laure Elie)**
+Ce master est également un excellent choix pour se spécialiser en **finance quantitative et modélisation aléatoire**.
+Il sélectionne généralement un **petit nombre d’étudiants** (2 à 3 par promotion).
+
+> Exemple : 3 étudiants ont été admis cette année et 2 l’année précédente.
+
+
+---
+
+# 5. ⚠️ Warnings et Conseils
+
+Il arrive parfois que, par incertitude, certains étudiants acceptent plusieurs offres de stage en même temps et attendent plusieurs semaines – voire plusieurs mois – avant de se décider.
+
+**Ne faites jamais cela.**
+Soyez honnête et transparent avec les recruteurs. Si vous hésitez, demandez-leur toujours un délai de quelques jours pour réfléchir avant d’accepter ou de refuser. La plupart du temps, ils comprennent et acceptent ce délai.
+
+Refuser un stage au **dernier moment** met les recruteurs dans une situation difficile. Cela peut nuire à :
+
+* Votre **réputation personnelle**
+* L’image de votre **école**
+* Parfois même celle de votre **communauté ou de votre pays**, car vous représentez bien plus que vous-même.
+
+> **Rappelez-vous :** que vous le vouliez ou non, vous êtes des ambassadeurs.
+
+De même, si vous avez accepté une offre de stage, **informez rapidement** les autres entreprises avec lesquelles vous êtes en contact.
+
+* Annulez les procédures de recrutement en cours.
+* Prévenez-les si un entretien était prévu, afin de ne pas leur faire perdre du temps.
+
+Cela montre votre professionnalisme, respecte le travail des recruteurs et laisse une bonne impression pour l’avenir.
+
+---
+
+## 6. ⚠️ Warnings pour les étudiants de 2A GDR
+
+Si votre objectif est de faire un **autre master après l’ENSAI**, **n’optez pas pour le Master de l’IGR**.
+Ce master n’apporte aucune valeur ajoutée dans cette perspective et vous ferait perdre l’opportunité de suivre des cours importants à l’ENSAI.
+
+En revanche, le Master IGR peut être pertinent si :
+
+* Vous souhaitez **entrer sur le marché du travail directement après l’ENSAI**.
+* Vous voulez **soutenir très tôt votre mémoire de Master 2**, obtenir rapidement votre diplôme et changer facilement votre statut d’étudiant en statut de travailleur.
+
+> **Conseil :** Clarifiez votre projet professionnel avant de choisir. Si votre but est académique (faire un master prestigieux ou une thèse après l’ENSAI), concentrez-vous sur les cours clés et optimisez votre classement.
