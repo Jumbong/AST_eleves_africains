@@ -115,7 +115,7 @@ papier des informations qu'elle contient. Ce document est utile si jamais vous p
 carte Vitale ou si vous devez justifier de vos droits.
 
 
-### Demander le complémentaire santé solidaire
+### Demander la complémentaire santé solidaire
 
 En France, la Sécurité sociale (Ameli) ne couvre pas la totalité des frais de santé.  
 En tant qu’étudiant boursier, vous pouvez bénéficier de la **Complémentaire Santé Solidaire (CSS)**, qui prend en charge une part importante des frais non remboursée par l’Assurance Maladie.

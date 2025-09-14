@@ -35,6 +35,3 @@ format:
 - [Intégration des associations étudiantes (ENSAI, ENSAE, ISFA, Master ESA d’Orléans)](02_Vie_etudiant_Integration/01_integration.qmd#intégration-des-associations.)
 
 # 3. Réussir son année et trouver rapidement son stage.
-
-- [Réussir son année](03_Insertion_Professionnelle/01_obtenir_son_stage.qmd#réussir-son-année)
-- [Trouver rapidement son stage](03_Insertion_Professionnelle/01_obtenir_son_stage.qmd#trouver-rapidement-son-stage)

@@ -1,0 +1,194 @@
+---
+title: "Réussir son année et trouver son stage rapidement"
+subtitle: ""
+sidebar: auto
+number-sections: false
+toc: true
+title-block-banner: false
+format: 
+  html: 
+    mainfont: Times New Roman
+    fontsize: 1.1em
+
+---
+![Integration](/03_Insertion_Professionnelle/99_images/01_insertion_professionnelle.png)  
+*Source : [CHATGPT 5]*
+
+Les étudiants « scientifiques » ont généralement plus de facilité à réussir leur année et à trouver rapidement un stage que les autres.
+Avant de préciser ce que j’entends par « étudiant scientifique », sachez que les élèves ayant effectué leur première année à l’ENSAI ou ayant déjà suivi un cursus en France disposent d’une légère avance – non pas forcément pour valider leur année, mais surtout pour décrocher un stage.
+
+En effet, ils savent se mettre en valeur, présenter leurs projets et « vendre » leur profil, car cela leur a été enseigné.
+Votre objectif doit donc être de les rattraper rapidement en adoptant une démarche scientifique :
+
+* **Collecter les données**,
+* **Apprendre et maîtriser** les connaissances,
+* **Partager** ce que vous avez appris.
+
+Pour cela, vous devez être ouvert d’esprit, curieux et rigoureux.
+Vos connaissances doivent pouvoir être **mesurées** à travers vos capacités de transmission, que ce soit à l’oral ou à l’écrit.
+
+> **Conseil :** publiez vos travaux et vos projets sur des plateformes visibles comme **LinkedIn**, **GitHub**, un site web personnel, voire **YouTube**. Cela montrera vos compétences et augmentera vos chances de trouver un stage rapidement.
+
+---
+
+L’étudiant scientifique est un élève curieux, passionné par la lecture, l’apprentissage et la transmission de ses connaissances. Il a une volonté forte de réussir son année et de décrocher un stage de qualité.
+
+## Réussir son année
+
+Réussir son année est essentiel, car les études en France offrent de bonnes conditions de travail et sont généralement accessibles à qui s’implique sérieusement. Réussir est non seulement gratifiant sur le plan personnel, mais ouvre également de nombreuses portes académiques et professionnelles, en particulier pour ceux qui visent des masters prestigieux comme le **MVA (Mathématiques, Vision, Apprentissage)**, le **Master El-Karoui**, le **M2MO**, **HEC** ou même un projet de **thèse**.
+
+Je vous encourage donc à :
+
+* **Apprendre en profondeur**,
+* **Conserver vos connaissances** en les structurant (notes, projets, portfolio),
+* **Partager** ce que vous avez appris avec la génération suivante.
+
+> **Message clé :** Si vous partagez cette vision, n’hésitez pas à nous contacter pour la concrétiser ensemble.
+
+---
+
+## Trouver rapidement son stage
+
+La recherche d’un stage académique est une étape clé pour valider votre année, mais aussi une occasion d’acquérir une expérience professionnelle précieuse. Trouver un stage demande **anticipation**, **organisation** et **persévérance**.
+
+Voici quelques conseils pour maximiser vos chances :
+
+---
+
+###  ⏳ N’attendez pas la dernière minute
+
+L’une des clés pour trouver un stage est de commencer tôt. Plus vous démarrez rapidement, plus vous aurez de choix et moins vous serez contraint d’accepter la première offre venue.
+
+Les excuses les plus fréquentes des étudiants :
+
+> « Mon CV n’est pas prêt »
+> « Je n’ai pas encore ma lettre de motivation »
+> « Je ne sais pas dans quelle entreprise je veux postuler »
+> « J’attends la fin du cours/projet/examen pour m’y mettre »
+
+Ces raisons peuvent vous coûter du temps et des opportunités.
+**Rappelez-vous :** le meilleur moment pour commencer, c’était hier ; le deuxième meilleur moment, c’est maintenant. Foncez ! 🚀
+
+---
+
+###  🎯 Ciblez vos secteurs et entreprises
+
+Même si votre projet professionnel n’est pas encore précis, identifiez :
+
+* Les **domaines d’application** de votre formation (finance, data science, actuariat, etc.)
+* Les **entreprises** qui recrutent dans ces secteurs
+
+Cette démarche vous aidera à :
+
+* Comprendre les besoins des employeurs
+* Déterminer ce que vous pouvez apporter
+* Affiner vos choix pour le stage final
+
+---
+
+### 🔎 Informez-vous sur les entreprises
+
+Une fois vos cibles définies :
+
+* Suivez les entreprises sur LinkedIn et autres réseaux sociaux
+* Consultez leurs sites web (histoire, valeurs, offres de stage)
+* Contactez des **anciens élèves** de votre école qui y travaillent pour comprendre leur quotidien
+
+---
+
+###  Travaillez votre *personal branding*
+
+Votre **marque personnelle**, c’est ce que les gens disent de vous quand vous n’êtes pas là.
+Elle peut faire toute la différence dans votre recherche.
+
+Conseils pour la renforcer :
+
+* Créez un **profil LinkedIn à jour**
+* Partagez du contenu, commentez des posts, échangez avec des professionnels
+* Publiez vos projets académiques (GitHub, site personnel, YouTube)
+* Participez à des **associations**, **clubs** et à la **junior-entreprise** de votre école
+
+> À diplôme égal, ce qui vous différencie, c’est votre visibilité et votre capacité à valoriser vos compétences.
+
+---
+
+###  Utilisez le réseau de votre école et des alumni
+
+Votre établissement est votre premier allié :
+
+* Consultez les offres reçues par l’école
+* Parcourez l’intranet et les partenariats entreprises
+* Identifiez les anciens maîtres de stage et envoyez-leur des candidatures spontanées
+* Échangez avec le responsable des stages pour accéder à ces informations
+
+---
+
+### 📅 Participez au Forum de votre établissement
+
+Le Forum Entreprises est **l’événement incontournable** pour rencontrer les recruteurs.
+Préparez-vous :
+
+* Relisez votre CV
+* Préparez votre *pitch* de 2–3 minutes
+* Soyez prêt à passer un entretien le jour même
+
+---
+
+###  🔍 Cherchez aussi par vous-même
+
+* Parlez de votre recherche autour de vous (famille, amis, camarades)
+* Postulez sur les principaux sites : LinkedIn, Indeed, Monster, Glassdoor, Jobteaser, Keljob…
+* Contactez directement les professionnels sur LinkedIn (ne vous découragez pas si certains ne répondent pas)
+
+---
+
+### 📝 Soignez votre CV
+
+* Personnalisez-le pour chaque entreprise
+* Mentionnez votre parcours, vos projets (objectifs, méthodes, résultats), vos compétences
+* Ajoutez vos activités extra-scolaires (associations, projets perso)
+* Faites-le relire par d’autres (étudiants avancés, professionnels, amis)
+
+---
+
+### 📩 Envoyez des candidatures spontanées ciblées
+
+Une candidature bien ciblée peut faire la différence. Identifiez les bons interlocuteurs et personnalisez votre message.
+
+---
+
+### 🎤 Préparez vos entretiens
+
+Avant chaque entretien, assurez-vous de :
+
+* Lire et comprendre l’offre de stage
+* Vous renseigner sur l’entreprise
+* Préparer votre présentation (2 à 5 minutes)
+* Résumer vos expériences pertinentes
+* Préparer **des questions à poser** au recruteur
+* Faire des simulations d’entretien avec des proches
+
+---
+
+### Remerciez et relancez
+
+Après un entretien, envoyez toujours un email de remerciement pour :
+
+* Réaffirmer votre motivation
+* Laisser une impression positive
+
+Relancez si vous n’avez pas de nouvelles après 8 à 10 jours.
+
+---
+
+### Ne vous découragez pas après un refus
+
+Tout le monde a reçu un jour un email de refus.
+Ce n’est **pas** un jugement de valeur sur vos compétences.
+
+> Demandez un retour constructif, améliorez votre candidature et continuez à postuler avec la même énergie.
+
+---
+
+**En résumé :** la recherche de stage est un marathon, pas un sprint. Commencez tôt, soyez persévérant et visible, et capitalisez sur toutes les ressources à votre disposition.
+
